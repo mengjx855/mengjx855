@@ -20,7 +20,7 @@
 ## 📚 Representative Publications
 - **A microbiota-IPA axis facilitates intestinal stem cell-mediated regeneration in colitis through a Hopx-associated program** - *Nature Communications*, 2026.
 - **Microbiota-derived IPA protects against colitis by regulating intestinal HMGCS2-mediated ketogenesis to facilitate mucosal healing** - *Nature Communications*, 2026. [DOI](https://doi.org/10.1038/s41467-026-69341-z)
-- **A gut microbiota-bile acid axis inhibits the infection of an emerging coronavirus by targeting its cellular receptor aminopeptidase N** - *Imeta*, 2025. [DOI](https://doi.org/10.1002/imt2.70061)
+- **A gut microbiota-bile acid axis inhibits the infection of an emerging coronavirus by targeting its cellular receptor aminopeptidase N** - *iMeta*, 2025. [DOI](https://doi.org/10.1002/imt2.70061)
 - **Synbiotic intervention with inulin and lactiplantibacillus plantarum LPm77 attenuates type 2 diabetes via enhanced TUDCA metabolism and gut-liver axis modulation** - *Journal of Agricultural and Food Chemistry*, 2025. [DOI](https://doi.org/10.1021/acs.jafc.5c03515)
 - **Temporal variability in the diversity, function and resistome landscapes in the gut microbiome of broilers** - *Ecotoxicology and Environmental Safety*, 2025. [DOI](https://doi.org/10.1016/j.ecoenv.2025.117976)
 
