@@ -1,8 +1,8 @@
 <div align="left">
   
 ### 👋 Hi, I'm Jinxin Meng (Jin-Xin Meng) 
-**🎓 PhD Student in Veterinary Science**
-**🏛️College of Animal Science, Zhejiang University**
+**🎓 PhD Student in Veterinary Science**  
+**🏛️ College of Animal Science, Zhejiang University**
 
 [![Email](https://img.shields.io/badge/Email-jinxmeng%40zju.edu.cn-red?style=flat-square&logo=gmail)](mailto:jinxmeng@zju.edu.cn)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Wn831gsAAAAJ&hl=en-us)
